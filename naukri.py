@@ -63,6 +63,6 @@ for i in range(1000):
         print(f"An error occurred: {e}")
 
 df = pd.DataFrame(data_list)
-df.to_csv("naukri1_com.csv", index=False)
+df.to_csv("naukri1_com.csv", index=False, encoding='utf-8-sig')
 
 driver.quit()
