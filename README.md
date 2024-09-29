@@ -1,3 +1,3 @@
 # webscraping project
 
-scraping jobs from naukri.com,shine.com,foundit.com,indeed and save
+scraping jobs from naukri.com,shine.com,foundit.com,indeed and save into csv
